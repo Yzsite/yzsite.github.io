@@ -4,6 +4,6 @@
     EJS_player = '#game';
     EJS_biosUrl = 'sgb_bios.bin';
     EJS_gameUrl = 'https://keisuke03.github.io/rom/Aka.gb'; // Url to Game rom
-    EJS_core = 'gb';
+    EJS_core = 'mgba';
 </script>
 <script src="https://www.emulatorjs.com/loader.js"></script>
