@@ -1,0 +1,9 @@
+        <div id="game"></div>
+      </div>
+<script type="text/javascript">
+    EJS_player = '#game';
+    EJS_biosUrl = 'sgb_bios.bin';
+    EJS_gameUrl = 'https://keisuke03.github.io/rom/Aka.gb'; // Url to Game rom
+    EJS_core = 'gb';
+</script>
+<script src="https://www.emulatorjs.com/loader.js"></script>
