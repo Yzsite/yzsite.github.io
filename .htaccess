@@ -1,4 +1,1 @@
-AuthType Basic
-AuthName "Input your ID and Password."
-AuthUserFile Pokemon/.htpasswd
-require valid-user
+ErrorDocument 404 /404.html
